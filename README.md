@@ -1,4 +1,4 @@
-👋 Hi, I’m @oumaimamajdoub
+👋 Hi, I’m Oumaima Majdoub
 I am currently a Software engineering Student at ESPRIT i had a mecatronics degree from institut supérieur des etudes technologique .
 
 <!---
