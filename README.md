@@ -1,7 +1,7 @@
 <div>
 <h1>Oumaima Majdoub</h1>
 <p>I am a recent graduate in Computer Science and have experience in software development, machine learning and data analysis.</p>
-<p>I am experienced in the following languages and technologies:</p>
+<h2>Skills</h2>
 <ul>
 <li>Python</li>
 <li>Java</li>
@@ -20,3 +20,10 @@
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=oumaimamajdoub&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaimamajdoub&layout=compact&theme=dark#gh-dark-mode-only)
+
+<h2>Contact</h2>
+
+<ul>
+  <li>Email: oumaima.majdoub@esprit.tn</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/oumaima-majdoub-4027111b6">Oumaima Majdoub</a></li>
+</ul>
