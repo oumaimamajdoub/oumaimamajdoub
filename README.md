@@ -1,6 +1,12 @@
 <div>
 <h1>Oumaima Majdoub</h1>
-<p>I am a recent graduate in Computer Science and have experience in software development, machine learning and data analysis.</p>
+<p>Welcome to my GitHub profile! I am a software developer with a passion for building innovative and useful applications. I have experience with a variety of programming languages and frameworks, and enjoy tackling complex problems and finding creative solutions.</p>
+
+<p>On this profile, you can find a selection of projects that I have worked on, ranging from web applications to data analysis tools. Feel free to browse my repositories and leave feedback or suggestions.</p>
+
+<p>I am always looking for new opportunities to learn and collaborate, so don't hesitate to reach out if you have any questions or would like to work together on a project.</p>
+
+<p>Thanks for visiting!</p>
 <h2>Skills</h2>
 <ul>
 <li>Python</li>
@@ -10,11 +16,6 @@
 <li>Spring Boot</li>
 <li>laravel</li>
 </ul>
-<p>I am a quick learner, able to pick up new technologies and skills with ease. I am also a team player and have experience working in both individual and team-based environments.</p>
-<p>I am currently seeking a software development or data analysis position where I can utilize my skills and continue to grow as a developer.</p>
-<p>You can find my projects and more information on my LinkedIn profile: <a href="https://www.linkedin.com/in/oumaima-majdoub-4027111b6/">https://www.linkedin.com/in/oumaima-majdoub-4027111b6/</a></p>
-<p>Please don't hesitate to contact me if you have any questions or would like to discuss a potential opportunity.</p>
-</div>
 
 <h2>GitHub Analytics</h2>
 
